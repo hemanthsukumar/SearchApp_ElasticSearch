@@ -1,7 +1,4 @@
 ﻿Read me
-Hemanth Sukumar Vangala
-1002118951
-
 
 Make sure Elasticsearch is running before running the code
 Run search_app.py in the terminal navigating to its location using the command “streamlit run search_app.py”.
